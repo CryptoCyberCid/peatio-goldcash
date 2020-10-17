@@ -55,7 +55,7 @@ Plugin development [example](https://github.com/rubykube/peatio/blob/master/docs
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/rubykube/peatio-litecoin.
+Bug reports and pull requests are welcome on GitHub at https://github.com/CryptoCyberCid/peatio-goldcash.
 
 ## License
 
