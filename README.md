@@ -26,7 +26,7 @@ For Peatio Goldcash plugin integration you need to do the following steps:
 
 1. Add peatio-goldcash gem into your Gemfile.plugin
 ```ruby
-gem 'peatio-goldcash', '~> 0.2.0'
+gem 'peatio-goldcash', '~> 2.5.1'
 ```
 
 2. Run `bundle install` for updating Gemfile.lock
@@ -55,7 +55,7 @@ Plugin development [example](https://github.com/rubykube/peatio/blob/master/docs
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/rubykube/peatio-litecoin.
+Bug reports and pull requests are welcome on GitHub at https://github.com/CryptoCyberCid/peatio-goldcash.
 
 ## License
 
