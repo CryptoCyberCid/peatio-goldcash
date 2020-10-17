@@ -6,12 +6,12 @@ require "peatio/goldcash/version"
 Gem::Specification.new do |spec|
   spec.name          = "peatio-goldcash"
   spec.version       = Peatio::Goldcash::VERSION
-  spec.authors       = ["Bob Pepers"]
-  spec.email         = ["support@runebase.io"]
+  spec.authors       = ["CCC"]
+  spec.email         = ["support@newcoins.exchange"]
 
   spec.summary       = %q{Gem for extending Peatio plugable system with Goldcash implementation.}
   spec.description   = %q{Goldcash Peatio gem which implements Peatio::Blockchain::Abstract & Peatio::Wallet::Abstract.}
-  spec.homepage      = "https://www.runebase.io/"
+  spec.homepage      = "https://newcoins.exchange/"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
